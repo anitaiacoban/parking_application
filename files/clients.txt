@@ -1,0 +1,10 @@
+1, Anita, Iacoban, 0722334455, Timisoara, False
+2, Sorana, Nemes, 0734234234, Sighisoara, False
+3, Iulian, Popescu, 073232234234, Brasov, False
+4, Pavel, Bartos, 07334534234, Bucuresti, False
+5, Mihai, Simian, 07344234, Arad,True
+6, Ana, Stanciu, 07333234, Iasi, False
+7, Elena, Tucudean, 07334234, Bucuresti, False
+8, Andrei, Vacariu, 074444234, Lovrin, False
+9, Ramona, Popescu, 07884234, Urseni, False
+10, Cristian, Talpa, 070004234, Bucovat,True
